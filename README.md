@@ -1,5 +1,5 @@
 # scanline-floodfill
-Attempt at making a fast floodfill algorithm utilizing full AVX2 256-bit registers, AVX2 bitwise operators and burst.
+Attempt at making a fast (as possible?) floodfill algorithm utilizing full AVX2 256-bit registers, AVX2 bitwise operators and burst.
 
 
 Burst vectorization:
