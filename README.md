@@ -1,5 +1,5 @@
 # scanline-floodfill
-Attempt at making a fast floodfill algorithm utilizing full AVX2 256-bit registers, AVX2 bitwise operators and burst.
+A fast floodfill algorithm utilizing full AVX2 256-bit registers, AVX2 bitwise operators and burst. Made to be used in a larger HPA* pathfinding solution.
 
 
 Burst vectorization:
